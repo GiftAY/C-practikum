@@ -214,6 +214,6 @@ void TGetSearchServer() {
 }
 
 int main() {
-    TGetSearchServer()();
-    std::cout << "Search server testing finished" << std::endl;
+    TGetSearchServer();
+    std::cout << "Search server test finished" << std::endl;
 }
